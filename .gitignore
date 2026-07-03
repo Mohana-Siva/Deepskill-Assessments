@@ -1,1 +1,26 @@
 *.class
+# Maven
+target/
+
+# Eclipse / Spring Tool Suite
+.metadata/
+.settings/
+.project
+.classpath
+.factorypath
+*.launch
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Java
+*.class
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
