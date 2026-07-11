@@ -5,7 +5,7 @@ import com.library.repository.BookRepository;
 public class BookService {
 
     private BookRepository bookRepository;
-
+ // Dependency Injection using Setter Method
     public void setBookRepository(BookRepository bookRepository) {
         this.bookRepository = bookRepository;
     }
