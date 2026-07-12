@@ -1,52 +1,31 @@
+# Java compiled files
 *.class
+
 # Maven
 target/
-
-# Eclipse / Spring Tool Suite
-.metadata/
-.settings/
-.project
-.classpath
-.factorypath
-*.launch
 
 # IntelliJ IDEA
 .idea/
 *.iml
 
-# VS Code
-.vscode/
-
-# Java
-*.class
-*.log
-
-# OS files
-.DS_Store
-Thumbs.db
-
-# IntelliJ
-.idea/
-*.iml
-
-# Eclipse
+# Eclipse / Spring Tool Suite
 .project
 .classpath
 .settings/
+.metadata/
+.factorypath
+*.launch
 
 # VS Code
 .vscode/
 
-# Maven
-target/
-
-# Logs
+# Log files
 *.log
-
-# OS files
-.DS_Store
-Thumbs.db
 
 # Environment files
 .env
 .env.*
+
+# Operating System files
+.DS_Store
+Thumbs.db
