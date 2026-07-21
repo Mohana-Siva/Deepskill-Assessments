@@ -29,3 +29,6 @@ target/
 # Operating System files
 .DS_Store
 Thumbs.db
+
+# Ignore log folder
+log/
